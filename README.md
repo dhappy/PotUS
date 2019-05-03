@@ -10,4 +10,4 @@ What I'd do as P'o't'US.
 
 ## Issues
 
-* [Open Market](Open Market)
+* [Open Market](Open_Market.md)
