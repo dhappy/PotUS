@@ -11,3 +11,4 @@ What I'd do as P'o't'US.
 ## Issues
 
 * [Open Market](Open_Market.md)
+* [Public Office](Public_Office.md)
