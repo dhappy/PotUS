@@ -12,7 +12,7 @@ What I'd do as P'o't'US.
 
 ### Economy
 
-* [Open Market](Open_Market.md)
+Create an "Open Market" where the data backing the inventory and point of sale systems is published and the decision-making systems have the capacity for the public to interact.
 
 ### Jobs
 
@@ -26,4 +26,5 @@ What I'd do as P'o't'US.
 Start with making basic needs guaranteed. I posit there could then be a rat park effect allowing us to end the drug war and begin using an experience recommender which includes substance use.
 
 ### Execution of the Office
+
 * [Public Office](Public_Office.md)
