@@ -1,12 +1,5 @@
-# Holcomb2020
+# Why to Vote Holcomb in 2020
 What I'd do as P'o't'US.
-
-## whoami
-
-* δγς
-* Δγς
-* ΔΓΣ
-* ΔγΣ
 
 ## Issues
 
@@ -28,3 +21,11 @@ Start with making basic needs guaranteed. I posit there could then be a rat park
 ### Execution of the Office
 
 * [Public Office](Public_Office.md)
+
+## whoami
+
+* dysbulic
+* δγς
+* Δγς
+* ΔΓΣ
+* ΔγΣ
