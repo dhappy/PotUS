@@ -1,5 +1,5 @@
 # Why to Vote Holcomb in 2020
-What I'd do as P'o't'US.
+What I'd do as P'o't'US or maybe Congressperson. The voting system is more in line with things being voted on rather than 
 
 ## Issues
 
@@ -21,6 +21,10 @@ Start with making basic needs guaranteed. I posit there could then be a rat park
 ### Execution of the Office
 
 * [Public Office](Public_Office.md)
+
+### Distributed Debates
+
+Debates consisting of 1-2 minute segments gathered over time.
 
 ## whoami
 
