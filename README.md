@@ -1,11 +1,20 @@
 # Why to Vote Holcomb in 2020
-What I'd do as P'o't'US or maybe Congressperson. The voting system is more in line with things being voted on rather than 
+What I'd do as P'o't'US. Mostly create software.
 
-## Issues
+## Execution of the Office
 
-### Economy
+I want to massively restructure how the office is executed. I think of it largely in terms of vignettes.
+
+I'm sitting in the Oval Office and one portion of the room is dedicated to a huge display. Control of that display is complex: ahead of time people have populated a set of semantic trees with sentiments that are likely to arise knowing the participants of the meetings and potentially preagreed topics.
+
+I'm 
+
+## Economy
 
 Create an "Open Market" where the data backing the inventory and point of sale systems is published and the decision-making systems have the capacity for the public to interact.
+
+A farmer is chopping cocoa leaves 
+
 
 ### Jobs
 
@@ -18,9 +27,6 @@ Create an "Open Market" where the data backing the inventory and point of sale s
 
 Start with making basic needs guaranteed. I posit there could then be a rat park effect allowing us to end the drug war and begin using an experience recommender which includes substance use.
 
-### Execution of the Office
-
-* [Public Office](Public_Office.md)
 
 ### Distributed Debates
 
