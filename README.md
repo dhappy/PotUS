@@ -7,7 +7,7 @@ I want to massively restructure how the office is executed. I think of it largel
 
 I'm sitting in the Oval Office and one portion of the room is dedicated to a huge display. Control of that display is complex: ahead of time people have populated a set of semantic trees with sentiments that are likely to arise knowing the participants of the meetings and potentially preagreed topics.
 
-I'm 
+Pretty much everything is livestreamed. 
 
 ## Economy
 
@@ -27,6 +27,9 @@ A farmer is chopping cocoa leaves
 
 Start with making basic needs guaranteed. I posit there could then be a rat park effect allowing us to end the drug war and begin using an experience recommender which includes substance use.
 
+### War
+
+Blanket conflict areas with phones along with the accompanying network coverage. Work on distributed democracy systems for both home and abroad.
 
 ### Distributed Debates
 
