@@ -1,13 +1,22 @@
-# Why to Vote Holcomb in 2020
-What I'd do as P'o't'US. Mostly create software.
+# What I'd do as P'o't'US
+
+Mostly create software. I believe relatively recent changes in our communications capacities enables new systems of commerce and governance.
 
 ## Execution of the Office
 
-I want to massively restructure how the office is executed. I think of it largely in terms of vignettes.
+As President, I would livestream the execution of my office and utelize a variety of mechanisms to get feedback from the world at large.
 
-I'm sitting in the Oval Office and one portion of the room is dedicated to a huge display. Control of that display is complex: ahead of time people have populated a set of semantic trees with sentiments that are likely to arise knowing the participants of the meetings and potentially preagreed topics.
+I would create a relaiable electronic identity to accompany citizenship allowing real-time feedback into events.
 
-Pretty much everything is livestreamed. 
+### War
+
+I would immedately withdraw from all foreign wars. I would blanket conflict areas with phones along with the accompanying network coverage. Work on distributed democracy systems for both home and abroad.
+
+### Collaborative Series
+
+Data from umpteen thousands of phones is steaming into a distributed archive for any given moment. Tools need to be created to sustain, navigate, and curate this dataset.
+
+The collaborative series collects vignettes which 
 
 ## Economy
 
@@ -26,10 +35,6 @@ A farmer is chopping cocoa leaves
 ### Crime
 
 Start with making basic needs guaranteed. I posit there could then be a rat park effect allowing us to end the drug war and begin using an experience recommender which includes substance use.
-
-### War
-
-Blanket conflict areas with phones along with the accompanying network coverage. Work on distributed democracy systems for both home and abroad.
 
 ### Distributed Debates
 
