@@ -1,0 +1,12 @@
+I've tried several times to write an eighth-grade history text from about five years in the future.
+The story includes the transition to an Anarchist Presidency where the bulk of their official time is livestreamed with a mechanism for the public to participate cogently.
+There are voluntary funding pools that reliably provide guarantees of food and shelter for everyone. Biden stops all use of bombs on his first day in office. The subsequent deescalation combined with the emergence of Gaianism as a driving force to eliminate poverty have ended armed conflict three years prior.
+Gaianism is a branch of Christianity claiming that there are different cognitive models and the experience of the Holy Spirit is one of them. So the Spirit is real, but Jesus had a human father.
+The tithe to the Church is to these funding pools which go toward necessities for anyone who asks.
+Around here, there would also be a description of Kohlberg's stages of development. The gist is that as people advance they consider alternative contexts more thoroughly. Earlier stages have absolute right answers for which an omniscient deity is well suited to provide. Later comes recognizing the validity of other viewpoints and the limitations of your own.
+It will include Plato's Allegory of the Cave which describes people chained facing a wall on which shadows are being cast. They confuse the shadows with reality. A Philosopher is one who makes it out of the cave and into the daylight. They return and try to free others, but are spurned.
+It will be followed by an addendum that a more appropriate analogy is that a Philosopher ventures away from the shadows and past the fire into darkness. A cave-darkness where they are blind and hazards abound. The best that can be done is to find others, communicate clearly, and move slowly.
+This will transition into Roger's Four Axioms for Adult Relationships, all of which are about helping others to have a clear picture of your picture of the world.
+Transition to Persig's description of reality maps in Zen and the Art of Motorcycle Maintenance.
+Link the Allegory back to the concept that to be a Philosopher one has to understand the limitations of perspectives and the inescapability of having to operate from some basis, but comprehending some people are reasoning in terms of shadows.
+Follow this with a brief introduction to Jung's concept of shadow and integration.
